@@ -13,4 +13,4 @@ radarcord.py
 ## Our Links
 
 Website: https://radarcord.net  
-Documentation: https://docs.radarcord.neyly
+Documentation: https://docs.radarcord.net
